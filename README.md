@@ -27,18 +27,12 @@ Uma aplicação desktop moderna com interface gráfica para conversão de moedas
 - **AwesomeAPI** - Cotações de moedas tradicionais
 - **CoinGecko API** - Cotações de criptomoedas
 
-## 📦 Dependências
-
-```bash
-pip install customtkinter requests xmltodict
-```
-
 ## 🚀 Como Executar
 
 1. **Clone ou baixe o projeto**
 2. **Instale as dependências**:
    ```bash
-   pip install -r requirements.txt
+   pip install customtkinter requests xmltodict
    ```
 3. **Execute a aplicação**:
    ```bash
