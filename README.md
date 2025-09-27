@@ -1,0 +1,46 @@
+# 💱 Conversor de Moedas e Criptomoedas
+
+Uma aplicação desktop moderna com interface gráfica para conversão de moedas tradicionais e cotação de criptomoedas em tempo real.
+
+## 🚀 Funcionalidades
+
+### 💰 Conversor de Moedas
+- **Conversão em tempo real** entre mais de 150 moedas mundiais
+- **Interface intuitiva** com seleção de moeda origem e destino
+- **Cálculo automático** de quantidades específicas
+- **Busca de símbolos** para identificar códigos de moedas
+- Dados fornecidos pela **AwesomeAPI**
+
+### 🪙 Cotações de Criptomoedas
+- **Cotações atualizadas** de criptomoedas populares
+- **Busca manual** de qualquer criptomoeda
+- **Conversão para dólar** (USD)
+- **Cálculo de quantidades** específicas
+- Dados fornecidos pela **CoinGecko API**
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python 3.x**
+- **CustomTkinter** - Interface gráfica moderna e responsiva
+- **Requests** - Requisições HTTP para APIs
+- **xmltodict** - Processamento de dados XML
+- **AwesomeAPI** - Cotações de moedas tradicionais
+- **CoinGecko API** - Cotações de criptomoedas
+
+## 📦 Dependências
+
+```bash
+pip install customtkinter requests xmltodict
+```
+
+## 🚀 Como Executar
+
+1. **Clone ou baixe o projeto**
+2. **Instale as dependências**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Execute a aplicação**:
+   ```bash
+   python main.py
+   ```
