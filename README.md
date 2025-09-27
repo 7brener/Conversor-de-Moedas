@@ -6,14 +6,12 @@ Uma aplicação desktop moderna com interface gráfica para conversão de moedas
 
 ### 💰 Conversor de Moedas
 - **Conversão em tempo real** entre mais de 150 moedas mundiais
-- **Interface intuitiva** com seleção de moeda origem e destino
 - **Cálculo automático** de quantidades específicas
 - **Busca de símbolos** para identificar códigos de moedas
 - Dados fornecidos pela **AwesomeAPI**
 
 ### 🪙 Cotações de Criptomoedas
-- **Cotações atualizadas** de criptomoedas populares
-- **Busca manual** de qualquer criptomoeda
+- **Busca manual** de centenas de criptomoedas
 - **Conversão para dólar** (USD)
 - **Cálculo de quantidades** específicas
 - Dados fornecidos pela **CoinGecko API**
